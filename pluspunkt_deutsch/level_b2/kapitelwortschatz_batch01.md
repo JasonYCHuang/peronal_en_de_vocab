@@ -1,10 +1,10 @@
 | # | Wort | Satz | 中文 | 英文 |
 |---|------|------|------|------|
-| 1 | die Vorstellung | Meine Vorstellung von Heimat ist klar. | 我對家鄉的想像很清楚。 | 我對家鄉的想像很清楚。 |
-| 2 | das Zitat | Das Zitat ist bekannt. | 這句引用很有名。 | 這句引用很有名。 |
-| 3 | das Fernweh | Ich habe Fernweh. | 我有想遠行的心情。 | 我有想遠行的心情。 |
+| 1 | die Vorstellung | Meine Vorstellung von Heimat ist klar. | 我對家鄉的想像很清楚。 | idea/concept |
+| 2 | das Zitat | Das Zitat ist bekannt. | 這句引用很有名。 | quotation |
+| 3 | das Fernweh | Ich habe Fernweh. | 我有想遠行的心情。 | wanderlust |
 | 4 | der Arbeitsvertrag | Der Arbeitsvertrag ist unterschrieben. | 工作合約已簽好。 | 工作合約已簽好。 |
-| 5 | auflösen | Wir lösen die Wohnung auf. | 我們把住處解約/清理。 | 我們把住處解約/清理。 |
+| 5 | auflösen | Wir lösen die Wohnung auf. | 我們把住處解約/清理。 | dissolve/terminate |
 |---|---|---|---|---|
 | 6 | beantragen | Ich beantrage die Arbeitserlaubnis. | 我申請工作許可。 | 我申請工作許可。 |
 | 7 | eröffnen | Ich eröffne ein Konto. | 我開設一個帳戶。 | 我開設一個帳戶。 |
