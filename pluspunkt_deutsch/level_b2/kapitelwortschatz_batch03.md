@@ -1,7 +1,7 @@
 | # | Wort | Satz | 中文 | 英文 |
 |---|------|------|------|------|
-| 1 | der/die Produzent/in | Der Produzent plant das Budget. | 製片人規劃預算。 | 製片人規劃預算。 |
-| 2 | der/die Regisseur/in | Die Regisseurin leitet das Team. | 導演帶領團隊。 | 導演帶領團隊。 |
+| 1 | der/die Produzent/in | Der Produzent plant das Budget. | 製片人規劃預算。 | 製片人與團隊合作。 |
+| 2 | der/die Regisseur/in | Die Regisseurin leitet das Team. | 導演帶領團隊。 | 導演在規劃這場戲。 |
 | 3 | die Scheinehe | Eine Scheinehe ist illegal. | 假結婚是違法的。 | 假結婚是違法的。 |
 | 4 | schmerzlos | Die Behandlung ist schmerzlos. | 這個治療不痛。 | 這個治療不痛。 |
 | 5 | der Spielfilm | Der Spielfilm läuft heute. | 這部故事片今天上映。 | 這部故事片今天上映。 |
