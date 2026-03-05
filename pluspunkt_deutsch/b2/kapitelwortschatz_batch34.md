@@ -1,0 +1,61 @@
+| 1 | Wort | 中文 | 英文 |
+|---|------|------|------|
+| 1 | der Ausgangspunkt | 出發點 | starting point |
+| 2 | bewachen | 看守 | guard |
+| 3 | die Einreise | 入境 | entry |
+| 4 | ergehen | 發布／做出 | be issued (decision) |
+| 5 | der Familienbesuch | 探親 | family visit |
+|---|---|---|---|
+| 6 | die S-Bahn-Linie | 城市鐵路路線 | S-Bahn line |
+| 7 | strikt | 嚴格的 | strict |
+| 8 | der Tagesausflug | 一日遊 | day trip |
+| 9 | der Umsteigebahnhof | 轉乘車站 | transfer station |
+|10 | der Umsteigeweg | 轉乘路線 | transfer route |
+|---|---|---|---|
+|11 | ungewiss | 不確定的 | uncertain |
+|12 | die Verabschiedung | 告別 | farewell |
+|13 | die Verabschiedungshalle | 送別大廳 | departure hall |
+|14 | die Verhaltensregel | 行為規範 | rule of conduct |
+|15 | die Öffnung | 開放 | opening |
+|---|---|---|---|
+|16 | die Ausreise | 出境 | exit/departure |
+|17 | ausreisen | 出境 | leave the country |
+|18 | beitragen | 貢獻 | contribute |
+|19 | besetzen | 佔領／填補 | occupy/fill |
+|20 | einlenken | 讓步 | give in |
+|---|---|---|---|
+|21 | erzwingen | 強迫 | force |
+|22 | friedlich | 和平的 | peaceful |
+|23 | die Führung | 領導／導覽 | leadership/guided tour |
+|24 | der Lexikonartikel | 百科條目 | encyclopedia entry |
+|25 | der Massenprotest | 大規模抗議 | mass protest |
+|---|---|---|---|
+|26 | die Revolution | 革命 | revolution |
+|27 | der/die Staatsführer/in | 國家領導人 | head of state |
+|28 | die Wiedervereinigung | 統一 | reunification |
+|29 | der Mauerfall | 柏林圍牆倒塌 | fall of the Wall |
+|30 | die Pressekonferenz | 記者會 | press conference |
+|---|---|---|---|
+|31 | der/die Pressesprecher/in | 發言人 | press spokesperson |
+|32 | die Regelung | 規定／調整 | regulation |
+|33 | der/die Staatschef/in | 國家元首 | head of government |
+|34 | die Voraussetzung | 前提條件 | prerequisite |
+|35 | die Chronik | 編年史 | chronicle |
+|---|---|---|---|
+|36 | der/die Zeitzeuge/Zeitzeugin | 歷史見證人 | eyewitness |
+|37 | grafisch | 圖像的 | graphic |
+|38 | der Zeitstrahl | 時間軸 | timeline |
+|39 | zusammentragen | 收集 | compile |
+|40 | die Grenzöffnung | 邊境開放 | border opening |
+|---|---|---|---|
+|41 | verwalten | 管理 | administer |
+|42 | das Erachten | 認為 | opinion/assessment |
+|43 | kommentieren | 評論 | comment |
+|44 | vergangen | 過去的 | past |
+|45 | der/die Amtsinhaber/in | 在任者 | office holder |
+|---|---|---|---|
+|46 | beitreten | 加入 | join |
+|47 | der/die Bundesminister/in | 聯邦部長 | federal minister |
+|48 | der Bundestag | 聯邦議會 | Bundestag |
+|49 | eintreten | 進入／發生 | enter/occur |
+|50 | die Entscheidung | 決定 | decision |
