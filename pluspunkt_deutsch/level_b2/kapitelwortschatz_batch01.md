@@ -1,6 +1,6 @@
 | # | Wort | Satz | 中文 | 英文 |
 |---|------|------|------|------|
-| 1 | die Vorstellung | Meine Vorstellung von Heimat ist klar. | 我對家鄉的想像很清楚。 | idea/concept |
+| 1 | die Vorstellung | Meine Vorstellung von Heimat ist klar. | 我對家鄉的想像很清楚。 | 我對家鄉的想像很清楚。 |
 | 2 | das Zitat | Das Zitat ist bekannt. | 這句引用很有名。 | 這句引用很有名。 |
 | 3 | das Fernweh | Ich habe Fernweh. | 我有想遠行的心情。 | 我有想遠行的心情。 |
 | 4 | der Arbeitsvertrag | Der Arbeitsvertrag ist unterschrieben. | 工作合約已簽好。 | 工作合約已簽好。 |
