@@ -1,4 +1,4 @@
-| # | Wort | Satz | 中文 | 英文 |
+| 編號 | Wort | Satz | 中文 | 英文 |
 |---|------|------|------|------|
 | 1 | die Vorstellung | Meine Vorstellung von Heimat ist klar. | 我對家鄉的想像很清楚。 | 我對家鄉的想像很清楚。 |
 | 2 | das Zitat | Das Zitat ist bekannt. | 這句引用很有名。 | 這句引用很有名。 |
